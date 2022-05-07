@@ -34,6 +34,6 @@ Install the required packages by executing the following command.
 ```$ pip install -r requirements.txt```
 
 ### Files
-- ```noetbook.ipynb``` : notebook of the anaklysis and the prediction model of the dataset
+- ```noetbook.ipynb``` : notebook of the analysis and the prediction model of the dataset
 - ```train.csv``` : dataset of the training data
 - ```requirements.txt``` : text file contains the dependencies
